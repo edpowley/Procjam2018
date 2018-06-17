@@ -1,0 +1,7 @@
+## Un-ignore binaries for third-party libraries
+
+![Dd]ebug/
+![Rr]elease/
+!x64/
+!x86/
+![Bb]in/
